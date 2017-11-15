@@ -29,5 +29,8 @@
     <ClCompile Include="hellogitHub.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="testFunction.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
